@@ -34,4 +34,4 @@ Your latest tweets/retweets:
 ```
 
 
-I only have 3 tweets, as I do not use Twitter on daily basis. Fortunately, I obtained the desired result
+I only have couple of tweets, as I do not use Twitter on daily basis. Fortunately, I obtained the desired result.
