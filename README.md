@@ -17,10 +17,11 @@ This small Python project connects to the Twitter API using Tweepy and OAuth 2.0
 For the given piece of code I got a list of my tweets and times I posted them:
 
 ```
-alexmultykh@MacBook-Air-Alex Desktop % python3 python_task/main.py
+alexmultykh@MacBook-Air-Alex Desktop % python3 python_assignment/main.py 
 Authenticated as @alexmultykh2005 (ID: 1346476645994041344)
 
-Your latest tweets/retweets:
+My latest tweets/retweets:
+- 2025-05-14 14:06:02+00:00: Test tweet
 - 2024-10-14 15:43:52+00:00: RT @InfoFortniteUA: 🎁 Розігруємо три скіна чарівної відьмочки «Lexa Hexbringer» 🧙🏻‍♀️
 
 Умови розіграшу дуже прості:
