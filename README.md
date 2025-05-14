@@ -16,7 +16,8 @@ This small Python project connects to the Twitter API using Tweepy and OAuth 2.0
 
 For the given piece of code I got a list of my tweets and times I posted them:
 
-```alexmultykh@MacBook-Air-Alex Desktop % python3 python_task/main.py
+```
+alexmultykh@MacBook-Air-Alex Desktop % python3 python_task/main.py
 Authenticated as @alexmultykh2005 (ID: 1346476645994041344)
 
 Your latest tweets/retweets:
@@ -29,7 +30,8 @@ Your latest tweets/retweets:
 Умови розіграшу дуже прості:
 • Підпишіться на @InfoFo…
 - 2024-01-02 09:01:36+00:00: RT @igorlachenkov: Kyiv now https://t.co/L7SsLp1Nsu
-- 2023-10-11 12:06:19+00:00: #RealestPersonOnEarth https://t.co/BLjulFdkbj```
+- 2023-10-11 12:06:19+00:00: #RealestPersonOnEarth https://t.co/BLjulFdkbj
+```
 
 
 I only have 3 tweets, as I do not use Twitter on daily basis. Fortunately, I obtained the desired result
